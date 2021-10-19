@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning ...
+- 👾 Check out my full portfolio here: [Portfolio](https://amanallahcode1.github.io)
 - 📫 Reach me by email: shahenechaouachi@gmail.com
 - ⚡ Fun fact: Pluto is smaller than the United States
 
-  <img src="tech_skills.PNG" width="600" height="300" />
+  <img src="tech_skills.PNG" width="400" height="200" />
 
 
 <!--
